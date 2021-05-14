@@ -3,11 +3,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Bank Details</title>
+	  <title>Bank Details</title>
 	  <link rel="preconnect" href="https://fonts.gstatic.com">
-      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Ubuntu:wght@300;700&display=swap" rel="stylesheet">
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-      <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+      	  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Ubuntu:wght@300;700&display=swap" rel="stylesheet">
+     	  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+          <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 	  <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 	  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 	  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -72,31 +72,31 @@
 			margin-bottom: 40px;
 		}
 		#footer {
-	  text-align: center;
-	  padding-top: 3%;
-	  padding-bottom: 1%;
+	 		  text-align: center;
+			  padding-top: 3%;
+			  padding-bottom: 1%;
 
-	  padding-right: 15rem;
-	  padding-left: 15rem;
-	}
-	.iconf {
-  color: #FBEEE6;
-  width: 10%;
-  padding: 1%;
-  font-size: 30px;
-}
-.Copyright {
-font-family:"Montserrat";
-font-weight:bold;
-}
-.myimg{
-	text-align: center;
-	width: 60%;
-	margin-left: 300px;
-	padding-bottom: 3rem;
-	border-radius: 25px;
-	opacity: 0.5;
-}
+			  padding-right: 15rem;
+			  padding-left: 15rem;
+			}
+			.iconf {
+			  color: #FBEEE6;
+			  width: 10%;
+			  padding: 1%;
+			  font-size: 30px;
+		}
+		.Copyright {
+			font-family:"Montserrat";
+			font-weight:bold;
+		}
+		.myimg{
+			text-align: center;
+			width: 60%;
+			margin-left: 300px;
+			padding-bottom: 3rem;
+			border-radius: 25px;
+			opacity: 0.5;
+		}
 	</style>
 
 }
@@ -172,7 +172,7 @@ font-weight:bold;
  <a class="iconf" href="https://twitter.com/?lang=en"><i class="fab fa-twitter"></i></a>
  <a class="iconf" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
  <a class="iconf" href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
- <a class="iconf" href="https://mail.google.com/"><i class="fab fa-github-square"></i></a>
+ <a class="iconf" href="https://github.com/"><i class="fab fa-github-square"></i></a>
 
  <p class="Copyright">© Copyright 2021 Sharan </p>
 
