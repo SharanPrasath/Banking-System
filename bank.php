@@ -3,9 +3,9 @@
 <head>
 	<title>Bank Details</title>
 	  <link rel="preconnect" href="https://fonts.gstatic.com">
-      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Ubuntu:wght@300;700&display=swap" rel="stylesheet">
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-      <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+      	  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;900&family=Ubuntu:wght@300;700&display=swap" rel="stylesheet">
+          <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+      	  <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 	  <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 	  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 	  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -16,7 +16,7 @@
 	  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 	  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 	<style type="text/css">
 
 		.database {
@@ -58,8 +58,8 @@
 	        background-size: 2100px;
 		}
 		.Copyright {
-font-family:"Montserrat";
-font-weight:bold;
+			font-family:"Montserrat";
+			font-weight:bold;
 }
 		.heading{
 			width: 100%;
@@ -78,75 +78,75 @@ font-weight:bold;
 			width: 20%;
 		}
 		#footer {
-	  text-align: center;
-	  padding-top: 3%;
-	  padding-bottom: 1%;
+			  text-align: center;
+			  padding-top: 3%;
+			  padding-bottom: 1%;
 
-	  padding-right: 15rem;
-	  padding-left: 15rem;
+			  padding-right: 15rem;
+			  padding-left: 15rem;
 	}
-	.iconf {
-  color: #FBEEE6;
-  width: 10%;
-  padding: 1%;
-  font-size: 30px;
-}
-.searchbar{
-    margin-bottom: auto;
-    margin-top: auto;
-    height: 60px;
-    background-color: #353b48;
-    border-radius: 30px;
-    padding: 10px;
-    }
+			.iconf {
+		  color: #FBEEE6;
+		  width: 10%;
+		  padding: 1%;
+		  font-size: 30px;
+		}
+		.searchbar{
+		    margin-bottom: auto;
+		    margin-top: auto;
+		    height: 60px;
+		    background-color: #353b48;
+		    border-radius: 30px;
+		    padding: 10px;
+		    }
 
-    .search_input{
-    color: white;
-    border: 0;
-    outline: 0;
-    background: none;
-    width: 0;
-    caret-color:transparent;
-    line-height: 40px;
-    transition: width 0.4s linear;
-    }
+		    .search_input{
+		    color: white;
+		    border: 0;
+		    outline: 0;
+		    background: none;
+		    width: 0;
+		    caret-color:transparent;
+		    line-height: 40px;
+		    transition: width 0.4s linear;
+		    }
 
-    .searchbar:hover > .search_input{
-    padding: 0 10px;
-    width: 450px;
-    caret-color:red;
-    transition: width 0.4s linear;
-    }
+		    .searchbar:hover > .search_input{
+		    padding: 0 10px;
+		    width: 450px;
+		    caret-color:red;
+		    transition: width 0.4s linear;
+		    }
 
-    .searchbar:hover > .search_icon{
-    background: white;
-    color: #e74c3c;
-    }
+		    .searchbar:hover > .search_icon{
+		    background: white;
+		    color: #e74c3c;
+		    }
 
-    .search_icon{
-    height: 40px;
-    width: 40px;
-    float: right;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%;
-    color:white;
-    text-decoration:none;
-    }
-    .card {
-    	position: absolute;
-    	width: 50%;
-    	border-radius: 90px;
-    	margin-left: 160px;
-    	margin-top: 50px;
-    	background-color: #FBEEE6;
-    	opacity: 0.8;
-    }
-     .search-button {
-     	text-align: center;
-     	margin-left: 120px;
-     }
+		    .search_icon{
+		    height: 40px;
+		    width: 40px;
+		    float: right;
+		    display: flex;
+		    justify-content: center;
+		    align-items: center;
+		    border-radius: 50%;
+		    color:white;
+		    text-decoration:none;
+		    }
+		    .card {
+			position: absolute;
+			width: 50%;
+			border-radius: 90px;
+			margin-left: 160px;
+			margin-top: 50px;
+			background-color: #FBEEE6;
+			opacity: 0.8;
+		    }
+		     .search-button {
+			text-align: center;
+			margin-left: 120px;
+		     }
 
 
 
@@ -270,7 +270,7 @@ font-weight:bold;
  <a class="iconf" href="https://twitter.com/?lang=en"><i class="fab fa-twitter"></i></a>
  <a class="iconf" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
  <a class="iconf" href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
- <a class="iconf" href="https://mail.google.com/"><i class="fab fa-github-square"></i></a>
+ <a class="iconf" href="https://github.com/"><i class="fab fa-github-square"></i></a>
 
  <p class="Copyright">© Copyright 2021 Sharan </p>
 
